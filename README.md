@@ -22,11 +22,15 @@
 * **aiohttp**
 
 ---
-## نمونه:
-@nabiger_bot
+
 
 ## 🚀 پیشنیاز ها
 
 * pip install aiogram yt-dlp apscheduler
 * pip install aiohttp-socks
 * pip install aiogram apscheduler aiohttp
+
+---
+
+## نمونه:
+@nabiger_bot
