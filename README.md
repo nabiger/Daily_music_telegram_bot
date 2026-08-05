@@ -24,8 +24,3 @@
 ---
 
 ## 🚀 راهنمای نصب و اجرای محلی
-
-### ۱. کلون کردن ریپازیتوری
-```bash
-git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
-cd repository-name
