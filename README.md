@@ -28,3 +28,4 @@
 
 * pip install aiogram yt-dlp apscheduler
 * pip install aiohttp-socks
+* pip install aiogram apscheduler aiohttp
