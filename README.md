@@ -23,12 +23,8 @@
 
 ---
 
-├── bot.py                # کد اصلی ربات و وب‌سرور
-├── requirements.txt      # لیست پیش‌نیازها برای دیپلوی
-├── README.md             # مستندات پروژه
-├── users.txt             # لیست شناسه کاربران
-├── music_ids.txt         # آرشیو file_id موزیک‌ها
-└── sent_music.txt        # تاریخچه موزیک‌های ارسال‌شده
 
----
-## 🚀 راهنمای نصب و اجرای محلی
+## 🚀 پیشنیاز ها
+
+pip install aiogram yt-dlp apscheduler
+pip install aiohttp-socks
