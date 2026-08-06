@@ -33,4 +33,4 @@
 ---
 
 ## نمونه:
-(https://t.me/nabiger_bot)[@nabiger_bot]
+[@nabiger_bot](https://t.me/nabiger_bot)
